@@ -2,6 +2,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3098--6175-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3098-6175)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Bhavik%20Achotani-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ixNYTuQAAAAJ&hl=en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-achotanibhavikoffice--ui.github.io-2563EB?logo=googlechrome&logoColor=white)](https://achotanibhavikoffice-ui.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhavik--achotani-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavik-achotani-94b4b4353)
 [![Zenodo](https://img.shields.io/badge/Zenodo-DOI%2010.5281%2Fzenodo.24046115-024dad)](https://doi.org/10.5281/zenodo.24046115)
 [![SSRN](https://img.shields.io/badge/SSRN-Preprints%207670799%20%7C%207670718-blue)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670799)

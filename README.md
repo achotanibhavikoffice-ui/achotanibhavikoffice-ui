@@ -17,19 +17,27 @@ My research focuses on **multimodal deep learning, Bayesian uncertainty quantifi
   - 4-tier clinical platform fusing 3D axial MRI with 12 blood biomarkers & sGFAP via Gated Multimodal Units (94.33% 4-class differential accuracy).
   - PyTorch Spectral Attention U-Net (2D FFT gates) + GPU Signed Distance Map (SDM) loss + Bayesian MC-Dropout (0.0192 ECE).
   - Published IEEE paper on Zenodo ([DOI: 10.5281/zenodo.24046115](https://doi.org/10.5281/zenodo.24046115)).
+  - 🚀 **Live Interactive Demo:** [Hugging Face Spaces](https://huggingface.co/spaces/achotanibhavikoffice-ui/neuroseg-demo)
 
 - 🌾 **[DhanSathi](https://github.com/achotanibhavikoffice-ui/Dhansathi)** — AI Smart Farming & Financial Companion.
   - Offline-first multilingual mobile architecture (Marathi, Hindi, English) in Kotlin, Jetpack Compose, and Room DB.
   - Sub-850ms Groq LLaMA 3.3 70B FastAPI backend for crop yield advisory across 10 Maharashtra crops.
   - Research Preprint on SSRN ([SSRN: 7670799](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670799)).
+  - 🚀 **Live Interactive Demo:** [Hugging Face Spaces](https://huggingface.co/spaces/achotanibhavikoffice-ui/dhansathi-demo)
 
 - 📈 **[Quantx](https://github.com/achotanibhavikoffice-ui/Paper_trade)** — Indian Market High-Concurrency Simulator & AI Backtesting.
   - High-throughput simulation engine with state-locked transactional wallets managing virtual capital scaling up to ₹50 Lakhs with zero ledger drift.
   - Vectorized strategy backtesting over 5+ years of historical OHLCV data in Python/Pandas.
   - Research Preprint on SSRN ([SSRN: 7670718](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7670718)).
+  - 🚀 **Live Interactive Demo:** [Hugging Face Spaces](https://huggingface.co/spaces/achotanibhavikoffice-ui/quantx-demo)
+
+- 📊 **[Telecom Churn AI](https://github.com/achotanibhavikoffice-ui/telecom)** — Customer Churn Intelligence & Retention Dashboard.
+  - XGBoost classification model (84.2% ROC-AUC, 82% F1) trained on 7,000+ subscriber records with interactive Plotly analytics.
+  - 🚀 **Live Interactive Demo:** [Hugging Face Spaces](https://huggingface.co/spaces/achotanibhavikoffice-ui/telecom-churn-demo)
 
 - 🛡️ **[InsureChain](https://github.com/achotanibhavikoffice-ui/InsureChain)** — Decentralized ZK Insurance Protocol.
   - EVM smart contract underwriting with Circom ZK-SNARKs (<1.5s proof generation) for privacy-preserving claims verification.
+  - 🚀 **Live Interactive Demo:** [Hugging Face Spaces](https://huggingface.co/spaces/achotanibhavikoffice-ui/insurechain-demo)
 
 ---
 
